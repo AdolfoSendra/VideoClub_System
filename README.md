@@ -1,7 +1,7 @@
 # Sistema de Gestión para Videoclub
 
-[!NOTE]
-Este proyecto forma parte del Trabajo Práctico para la materia de Laboratorio de Programación 1 de la Tecnicatura Universitaria en Programación de la UTN.
+>[!NOTE]
+>Este proyecto forma parte del Trabajo Práctico para la materia de Laboratorio de Programación 1 de la Tecnicatura Universitaria en Programación de la UTN.
 
 ## Funcionalidades
 
